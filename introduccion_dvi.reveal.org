@@ -1,0 +1,155 @@
+#+title: Introducción a DVI
+#+setupfile: setup.org
+
+* La asignatura
+:PROPERTIES:
+:CUSTOM_ID: la-asignatura
+:END:
+** Cosas que sabréis hacer
+:PROPERTIES:
+:CUSTOM_ID: cosas-que-sabréis-hacer
+:END:
+Hacer videojuegos en JavaScript que funcionen en un navegador
+
+Usar herramientas de desarrollo profesionales para el desarrollo web
+
+Gestionar recursos (imágenes, audio...) para usarlo en videojuegos en un
+navegador
+
+** Cosas que aprenderéis
+:PROPERTIES:
+:CUSTOM_ID: cosas-que-aprenderéis
+:END:
+Cómo funciona un navegador por dentro
+
+Cómo gestionar el desarrollo con un /toolset/ real
+
+Cómo hacer proyectos de forma profesional, presentarlos y entregarlos
+
+** Cómo enfocar la asignatura
+:PROPERTIES:
+:CUSTOM_ID: cómo-enfocar-la-asignatura
+:END:
+No ser pasivos
+
+Buscar recursos en Internet: [[https://es.wikipedia.org/wiki/GIYF][RTFM o GIYF]]
+
+Tener ganas de *aprender*, no de aprobar
+
+Proponer cosas, intentar cosas nuevas
+
+** El proyecto más allá de la asignatura
+:PROPERTIES:
+:CUSTOM_ID: el-proyecto-más-allá-de-la-asignatura
+:END:
+El objetivo es que lo que hagáis en la asignatura valga más allá de la
+asignatura
+
+- Portfolio
+- Expresión
+- Comunicación
+
+* Equipo docente
+:PROPERTIES:
+:CUSTOM_ID: equipo-docente
+:END:
+
+#+REVEAL: split
+
+*Carlos León*
+
+Despacho 444 (4ª planta)\\
+[[mailto:cleon@ucm.es][cleon@ucm.es]]
+
+** Desarrollo de la asignatura
+:PROPERTIES:
+:CUSTOM_ID: desarrollo-de-la-asignatura
+:END:
+El material de la asignatura ha sido creado en colaboración con
+*Mozilla*
+
+#+caption: ¡Gracias a [[https://es.linkedin.com/in/delapuente][Salvador de la Puente]], [[https://es.linkedin.com/in/belenalbeza][Belén Albeza]], [[https://es.linkedin.com/in/ismael-sagredo-olivenza-b16b6937][Ismael Sagredo]], [[https://www.linkedin.com/in/guillefdi/?originalSubdomain=es][Guillermo Jiménez]] y [[https://www.linkedin.com/in/antonio-calvo-morata-494ab28b/?originalSubdomain=es][Antonio Calvo]]!
+#+attr_html: :height 300
+[[file:mozilla.png]]
+
+
+
+* Evaluación
+:PROPERTIES:
+:CUSTOM_ID: evaluación
+:END:
+** Método de evaluación
+:PROPERTIES:
+:CUSTOM_ID: método-de-evaluación
+:END:
+Proyecto, por grupos (100% de la nota)
+
+** Entregas del proyecto
+:PROPERTIES:
+:CUSTOM_ID: entregas-del-proyecto
+:END:
+Se calificarán varios hitos, pero la nota final será la última
+
+Los hitos son obligatorios, y su presentación pública en clase, también
+
+** Contribución
+:PROPERTIES:
+:CUSTOM_ID: contribución
+:END:
+Cada miembro declarará su contribución relativa al proyecto, para
+ponderar la nota
+
+Recordad que *lo importante es la implementación*
+
+** Copias
+:PROPERTIES:
+:CUSTOM_ID: copias
+:END:
+*Copiar es ilegal*. Significa *suspender*
+
+#+caption: Se hará un control de copias *estricto*
+#+attr_html: :height 300
+[[file:no_copy.svg]]
+
+** Proyecto
+:PROPERTIES:
+:CUSTOM_ID: proyecto
+:END:
+
+#+begin_quote
+Independientemente de sus partes, el proyecto tiene que ser aceptable
+globalmente
+
+#+end_quote
+
+El proyecto tiene que *funcionar*, ser jugable completamente, tener un
+aspecto visual y gráfico aceptable y no tener errores graves
+
+A partir de esa premisa se pondrá la nota
+
+* Otra información
+:PROPERTIES:
+:CUSTOM_ID: otra-información
+:END:
+** Ficha docente
+:PROPERTIES:
+:CUSTOM_ID: ficha-docente
+:END:
+La ficha docente está en el CV
+
+Tiene información oficial
+
+La ficha es general y establece el "contrato" de la enseñanza oficial,
+es /obligatorio/ ceñirse a ella
+
+Estas transparencias son más concretas, pero no está de más echarle un
+vistazo a la ficha
+
+** Campus Virtual
+:PROPERTIES:
+:CUSTOM_ID: campus-virtual
+:END:
+El CV es la herramienta /oficial/ de comunicación
+
+Cualquier cosa publicada en el CV será considerada establecida y oficial
+(fechas, entregas, apuntes...)

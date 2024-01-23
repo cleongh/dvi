@@ -1,0 +1,7 @@
+#+title: DVI
+#+author: Carlos León
+#+language: es
+
+
+* Contenido
+- [[file:introduccion_dvi.reveal.org]]
