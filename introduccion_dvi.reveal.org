@@ -88,18 +88,152 @@ Proyecto, por grupos (100% de la nota)
 :PROPERTIES:
 :CUSTOM_ID: entregas-del-proyecto
 :END:
-Se calificarán varios hitos, pero la nota final será la última
+Se dará realimentación en los hitos y en las sesiones de laboratorio, pero la nota final será la última
 
 Los hitos son obligatorios, y su presentación pública en clase, también
 
-** Contribución
+
+* Contribución individual
 :PROPERTIES:
 :CUSTOM_ID: contribución
 :END:
-Cada miembro declarará su contribución relativa al proyecto, para
-ponderar la nota
+Cada miembro declarará su contribución relativa al proyecto, para ponderar la nota
 
 Recordad que *lo importante es la implementación*
+
+
+** Evaluar proyectos es complejo
+
+En un proyecto hay muchos factores, mucha gente y muchas tareas
+
+En un videojuego hay muchas tareas de dominios muy distintos, y dividir el área a la que pertenece cada tarea es, a veces, poco realista
+
+** Evaluación por alcance y calidad
+
+- Tenéis unas 15 semanas
+- Asumamos 6-7 horas de dedicación a la semana
+- Aproximadamente, *100 horas* de dedicación a la asignatura
+
+#+REVEAL: split
+
+Eso quiere decir que se os pedirá un proyecto de \\
+
+$\text{puntos} = 100 \times \text{estudiantes}$
+
+** Alcance
+
+El proyecto tendrá que definir un alcance (una lista de características, tamaño, etc)
+
+A cada característica se le asignarán una serie de horas
+
+Cada característica se evaluará y, al final, se dará un porcentaje de las horas en función de su acabado
+
+** Ejemplo
+
+- Sois 9 estudiantes
+- Se diseña un proyecto de 950 puntos (más de lo exigido)
+
+#+REVEAL: split
+
+- Movimiento y salto: 500 puntos
+- Boss final: 450 puntos
+
+#+REVEAL: split
+
+Al evaluar, el /boss/ queda un poco limitado, se dan 300 puntos
+
+Al movimiento, todo (500 puntos)
+
+En total, el proyecto ha obtenido 800 puntos
+
+#+REVEAL: split
+
+Para sacar la máxima nota se necesitaban 900 puntos ($9~\text{estudiantes} \times 100 ~\text{puntos}$)
+
+En total, una aproximación a la calidad del proyecto sería $\frac{800}{900} \approx 8.8$
+
+** Nota por estudiante
+
+Pero la nota del proyecto no es la nota de los miembros
+
+#+REVEAL: split
+
+La nota de cada estudiante se hará en función de la contribución de cada uno, por puntos
+
+El grupo tendrá que *controlar cuántos puntos merece cada miembro*
+
+(Es parte de lo que queremos que trabajéis en la asignatura)
+
+#+REVEAL: split
+
+Según el ejemplo
+
+De los 800 puntos obtenidos:
+
+- $A$ merece un poco del movimiento y un poco del boss: 75 puntos
+- $B$ merece solo del boss, pero lo ha hecho casi todo: 100 puntos
+- ...
+
+#+REVEAL: split
+
+Obviamente, la suma de los puntos de cada persona deberá ser igual a los puntos del proyecto
+
+(Más adelante os contamos cómo repartirlos)
+
+** Límites por área
+
+Los puntos se os darán como una cifra única que podréis repartir como queráis
+
+Pero hay un límite en los puntos que podéis recibir por área
+
+#+REVEAL: split
+
+De forma *orientativa*, en un proyecto de 500 puntos (y con cambios a discreción del equipo docente):
+
+- Implementación: 250 puntos
+- Diseño: 100 puntos
+- Arte: 75 puntos
+- Comunicación: 75 puntos
+
+
+** Evaluación continua
+
+Iréis teniendo notas y realimentación durante la asignatura, pero es solo para que sepáis el estado y el criterio del equipo docente
+
+Se irá revisando el alcance del proyecto, y se os dará información sobre cómo vais y qué se espera que hagáis
+
+** La única nota que cuenta es la final
+
+Todo el contenido que se trabaja en los proyectos es acumulativo
+
+Aunque se os irá dando realimentación e información de cómo va el proyecto según los criterios de evaluación, la nota final será lo único que tenga peso
+
+** Proyecto
+:PROPERTIES:
+:CUSTOM_ID: proyecto
+:END:
+
+#+begin_quote
+Independientemente de sus partes, el proyecto tiene que ser aceptable globalmente
+#+end_quote
+
+El proyecto tiene que *funcionar*, ser jugable completamente, tener un aspecto visual y gráfico aceptable y no tener errores graves
+
+A partir de esa premisa se pondrá la nota
+
+
+** Convocatoria extraordinaria
+
+La convocatoria extraordinaria tiene los mismos requisitos que la ordinaria
+
+Habrá que recuperar las partes cuyo mínimo no se haya satisfecho dentro del proyecto
+
+No habrá presentación pública, y es posible (según la ficha docente) que haya partes que no se puedan recuperar, pero siempre será posible aprobar
+
+#+REVEAL: split
+
+En cualquier caso, lo ideal es hablar con el equipo docente antes de afrontar la entrega extraordinaria para establecer unos objetivos y un alcance
+
 
 ** Copias
 :PROPERTIES:
@@ -111,21 +245,16 @@ Recordad que *lo importante es la implementación*
 #+attr_html: :height 300
 [[file:no_copy.svg]]
 
-** Proyecto
-:PROPERTIES:
-:CUSTOM_ID: proyecto
-:END:
 
-#+begin_quote
-Independientemente de sus partes, el proyecto tiene que ser aceptable
-globalmente
 
-#+end_quote
 
-El proyecto tiene que *funcionar*, ser jugable completamente, tener un
-aspecto visual y gráfico aceptable y no tener errores graves
+* La metodología: caos controlado
 
-A partir de esa premisa se pondrá la nota
+#+REVEAL: split
+
+*Measuring actual learning versus feeling of learning in response to being actively engaged in the classroom* (Louis Deslauriers, Logan S. McCarty, Kelly Miller, Kristina Callaghan, and Greg Kestin). PNAS, Vol 116, No. 39 (2019)
+
+
 
 * Otra información
 :PROPERTIES:
@@ -139,11 +268,9 @@ La ficha docente está en el CV
 
 Tiene información oficial
 
-La ficha es general y establece el "contrato" de la enseñanza oficial,
-es /obligatorio/ ceñirse a ella
+La ficha es general y establece el "contrato" de la enseñanza oficial, es /obligatorio/ ceñirse a ella
 
-Estas transparencias son más concretas, pero no está de más echarle un
-vistazo a la ficha
+Estas transparencias son más concretas, pero no está de más echarle un vistazo a la ficha
 
 ** Campus Virtual
 :PROPERTIES:
@@ -151,5 +278,4 @@ vistazo a la ficha
 :END:
 El CV es la herramienta /oficial/ de comunicación
 
-Cualquier cosa publicada en el CV será considerada establecida y oficial
-(fechas, entregas, apuntes...)
+Cualquier cosa publicada en el CV será considerada establecida y oficial (fechas, entregas, apuntes...)
