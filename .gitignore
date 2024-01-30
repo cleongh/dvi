@@ -1,0 +1,5 @@
+/dist/
+/.parcel-cache/
+/*.html
+*~
+/node_modules/
