@@ -1,8 +1,13 @@
 #+title: Histórico de juegos web
 
-Algunos enlaces no funcionan (porque los autores han decidido desactivar el repositorio).
+Algunos enlaces no funcionan (porque los autores han decidido desactivar el repositorio). Hay juegos web de DVI y PVLI.
 
-*** Curso 2021-2022
+* Curso 2023-2024
+
+* Curso 2022-2023
+
+
+* Curso 2021-2022
 :PROPERTIES:
 :CUSTOM_ID: curso-2021-2022
 :END:
@@ -19,8 +24,11 @@ Algunos enlaces no funcionan (porque los autores han decidido desactivar el repo
 - [[https://miggon23.github.io/Crowfender/][Crowfender]]
 - [[https://elisatodd.github.io/Grupo-3-PVLI-2021-22/][The Right Man]]
 - [[https://asegar01.github.io/BAFTA/][BAFTA]]
+- [[https://dahermar.github.io/GodSlayer.github.io/]]
+- [[https://tolu9660.github.io/DVI/]]
+- [[https://github.com/BrunoMC102/DVI.github.io]]  
 
-*** Curso 2020-2021
+* Curso 2020-2021
 :PROPERTIES:
 :CUSTOM_ID: curso-2020-2021
 :END:
@@ -38,7 +46,7 @@ Algunos enlaces no funcionan (porque los autores han decidido desactivar el repo
 - [[https://cool-videogames.github.io/Paradox-Invasion/]]
 - [[https://rubenglezortiz.github.io/PVLI-2020-21-CUCU-PROLOGUE/]]
 
-*** Curso 2019-2020
+* Curso 2019-2020
 :PROPERTIES:
 :CUSTOM_ID: curso-2019-2020
 :END:
@@ -63,7 +71,7 @@ Algunos enlaces no funcionan (porque los autores han decidido desactivar el repo
 - [[https://tomaslopezanton.github.io/ThomasElTrenWeb/]]
 - [[https://raulblas7.github.io/Usarpadores/]]
 
-*** Curso 2018-2019
+* Curso 2018-2019
 :PROPERTIES:
 :CUSTOM_ID: curso-2018-2019
 :END:
@@ -85,7 +93,7 @@ Algunos enlaces no funcionan (porque los autores han decidido desactivar el repo
 - [[https://argarc03.github.io/LightSeeker/]]
 - [[https://dankgard.github.io/Minilization/dist/index.html]]
 
-*** Curso 2017-2018
+* Curso 2017-2018
 :PROPERTIES:
 :CUSTOM_ID: curso-2017-2018
 :END:
@@ -111,7 +119,7 @@ Algunos enlaces no funcionan (porque los autores han decidido desactivar el repo
 - [[https://bornunez.github.io/undefined/src/]]
 - [[https://hectorsed.github.io/PVLI-Zelios/src/index.html]]
 
-*** Curso 2016-2017
+* Curso 2016-2017
 :PROPERTIES:
 :CUSTOM_ID: curso-2016-2017
 :END:
