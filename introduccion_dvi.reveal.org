@@ -61,6 +61,15 @@ asignatura
 Despacho 444 (4ª planta)\\
 [[mailto:cleon@ucm.es][cleon@ucm.es]]
 
+
+#+REVEAL: split
+
+*Ismael Sagredo*
+
+Despacho 409 (4ª planta)\\
+[[mailto:isagredo@ucm.es][isagredo@ucm.es]]
+
+
 ** Desarrollo de la asignatura
 :PROPERTIES:
 :CUSTOM_ID: desarrollo-de-la-asignatura
@@ -128,72 +137,96 @@ A cada característica se le asignarán una serie de horas
 
 Cada característica se evaluará y, al final, se dará un porcentaje de las horas en función de su acabado
 
-** Ejemplo
+# ** Ejemplo
 
-- Sois 9 estudiantes
-- Se diseña un proyecto de 950 puntos (más de lo exigido)
+# - Sois 9 estudiantes
+# - Se diseña un proyecto de 950 puntos (más de lo exigido)
 
-#+REVEAL: split
+# #+REVEAL: split
 
-- Movimiento y salto: 500 puntos
-- Boss final: 450 puntos
+# - Movimiento y salto: 500 puntos
+# - Boss final: 450 puntos
 
-#+REVEAL: split
+# #+REVEAL: split
 
-Al evaluar, el /boss/ queda un poco limitado, se dan 300 puntos
+# Al evaluar, el /boss/ queda un poco limitado, se dan 300 puntos
 
-Al movimiento, todo (500 puntos)
+# Al movimiento, todo (500 puntos)
 
-En total, el proyecto ha obtenido 800 puntos
+# En total, el proyecto ha obtenido 800 puntos
 
-#+REVEAL: split
+# #+REVEAL: split
 
-Para sacar la máxima nota se necesitaban 900 puntos ($9~\text{estudiantes} \times 100 ~\text{puntos}$)
+# Para sacar la máxima nota se necesitaban 900 puntos ($9~\text{estudiantes} \times 100 ~\text{puntos}$)
 
-En total, una aproximación a la calidad del proyecto sería $\frac{800}{900} \approx 8.8$
+# En total, una aproximación a la calidad del proyecto sería $\frac{800}{900} \approx 8.8$
 
-** Nota por estudiante
+** Cómputo de horas
 
-Pero la nota del proyecto no es la nota de los miembros
+Dadas:
 
-#+REVEAL: split
+- una característica $c$,
+- una estimación en horas $E$ para esa tarea,
+- una lista de miembros que hayan trabajado en ella $M=[m_1, m_2,\dots, m_n]$
+- y un porcentaje de acabado y calidad de esa característica $P_c$
 
-La nota de cada estudiante se hará en función de la contribución de cada uno, por puntos
+A cada miembro $M_i$ le corresponden por la característica $c$:
 
-El grupo tendrá que *controlar cuántos puntos merece cada miembro*
+$\text{puntos por característica} = \frac{E \times P_c}{|M|}$
 
-(Es parte de lo que queremos que trabajéis en la asignatura)
 
-#+REVEAL: split
 
-Según el ejemplo
 
-De los 800 puntos obtenidos:
+* Nota por estudiante
 
-- $A$ merece un poco del movimiento y un poco del boss: 75 puntos
-- $B$ merece solo del boss, pero lo ha hecho casi todo: 100 puntos
-- ...
+La nota del cada estudiante se calculará teniendo en cuenta:
 
-#+REVEAL: split
+- La nota del proyecto en general (25%)
+- Su contribución, sumando la de cada característica en la que haya participado (75%)
+- Su contribución en otras tareas será tenida en cuenta (presentaciones generales, etc)
 
-Obviamente, la suma de los puntos de cada persona deberá ser igual a los puntos del proyecto
+# ** Nota por estudiante
 
-(Más adelante os contamos cómo repartirlos)
+# Pero la nota del proyecto no es la nota de los miembros
 
-** Límites por área
+# #+REVEAL: split
 
-Los puntos se os darán como una cifra única que podréis repartir como queráis
+# La nota de cada estudiante se hará en función de la contribución de cada uno, por puntos
 
-Pero hay un límite en los puntos que podéis recibir por área
+# El grupo tendrá que *controlar cuántos puntos merece cada miembro*
 
-#+REVEAL: split
+# (Es parte de lo que queremos que trabajéis en la asignatura)
 
-De forma *orientativa*, en un proyecto de 500 puntos (y con cambios a discreción del equipo docente):
+# #+REVEAL: split
 
-- Implementación: 250 puntos
-- Diseño: 100 puntos
-- Arte: 75 puntos
-- Comunicación: 75 puntos
+# Según el ejemplo
+
+# De los 800 puntos obtenidos:
+
+# - $A$ merece un poco del movimiento y un poco del boss: 75 puntos
+# - $B$ merece solo del boss, pero lo ha hecho casi todo: 100 puntos
+# - ...
+
+# #+REVEAL: split
+
+# Obviamente, la suma de los puntos de cada persona deberá ser igual a los puntos del proyecto
+
+# (Más adelante os contamos cómo repartirlos)
+
+# ** Límites por área
+
+# Los puntos se os darán como una cifra única que podréis repartir como queráis
+
+# Pero hay un límite en los puntos que podéis recibir por área
+
+# #+REVEAL: split
+
+# De forma *orientativa*, en un proyecto de 500 puntos (y con cambios a discreción del equipo docente):
+
+# - Implementación: 250 puntos
+# - Diseño: 100 puntos
+# - Arte: 75 puntos
+# - Comunicación: 75 puntos
 
 
 ** Evaluación continua
